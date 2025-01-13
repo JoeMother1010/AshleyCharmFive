@@ -1,2 +1,2 @@
-# WeirdInstagram
- Testing to see if i can make a website that looks similar to instagram sorta
+# ASHLEYCHARMFIVE
+## COP THE COIN $TT WITH THE LINKS IN THE WEBSITE WE GOING TO DA MOON OF THESE RETARDED ALBINOS
