@@ -39,6 +39,7 @@ body, * {
   align-items: center;
   gap: 10px;
   margin-bottom: 10px;
+  transform: scale(0.5);
 }
 .gallery img {
 transform: scale(0.5);
