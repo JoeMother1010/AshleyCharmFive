@@ -16,7 +16,6 @@ body, * {
   left: 0;
   width: 250px;
   height: 75vh;
-  padding: 20px;
   transition: position 0.3s ease, top 0.3s ease;
   transform: scale(0.5);
 }
@@ -37,21 +36,16 @@ body, * {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 10px;
-  margin-bottom: 10px;
-  transform: scale(0.5);
+  gap: 40px;
+  margin-bottom: 40px;
 }
-.gallery img {
-transform: scale(0.5);
-}
-img{
-  transform: scale(0.5);
-}
+
 .end {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
+  scale: 0.5;
 }
 
 .lastImage {
@@ -64,13 +58,9 @@ img{
   display: flex;
   justify-content: center;
   align-items: center;
+  transform: scale(1);
   transition: transform 1s ease, font-size 1s ease;
-  transform: scale(0.25);
-
-
-}
-.end img{
-  transform: scale(0.5);
+  scale: 0.5;
 }
 
 .lastImage.expand {
