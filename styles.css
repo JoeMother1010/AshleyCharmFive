@@ -46,7 +46,9 @@ body, * {
   justify-content: flex-start;
   scale: 0.5;
 }
-
+.start{
+  scale: 0.5;
+}
 .lastImage {
   width: 1289px;
   height: 956px;
